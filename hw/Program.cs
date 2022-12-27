@@ -15,10 +15,6 @@
             double pow_r6 = Math.Pow(r6, 2);
             double sum = pow_r2 + pow_r4 + pow_r6;
             Console.WriteLine(sum);
-
-
-
-
         }
     }
 }
